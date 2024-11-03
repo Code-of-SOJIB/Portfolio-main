@@ -9,12 +9,12 @@ export const educations = [
     id: 2,
     title: "Higher Secondary Certificate",
     duration: "2017 - 2019",
-    institution: "Milestone College",
+    institution: "Milestone College,Dhaka",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
     duration: "2010 - 2017",
-    institution: "Janakollan High School",
+    institution: "Janakollan High School,kishoreganj",
   }
 ]

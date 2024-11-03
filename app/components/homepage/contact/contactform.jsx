@@ -20,7 +20,7 @@ const Contactform = () => {
     const templateParams = {
       from_name: name,
       //   from_email: email,
-      email: "sojib",
+      user_email: email,
       message: message,
     };
 
